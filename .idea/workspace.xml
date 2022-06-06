@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ca61313-e66a-41a2-abd9-3cd49c5ce84a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="29keCp8a0ixPSK0oJNkiS5hCcpO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Python_batch_3" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python_class_batch_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_7" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class_7/inh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python_class_batch_3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class_1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class_1/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ca61313-e66a-41a2-abd9-3cd49c5ce84a" name="Default Changelist" comment="" />
+      <created>1653661385518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653661385518</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="64" width="1071" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1654525673991">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="64" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1654525673991" />
+    <state x="184" y="82" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.797@0.25.1440.797" timestamp="1654180187582" />
+    <state x="184" y="82" width="1071" height="702" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.799@0.25.1440.799" timestamp="1654181222396" />
+    <state x="184" y="82" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.801@0.25.1440.801" timestamp="1654008563536" />
+    <state x="453" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1653661423158">
+      <screen x="0" y="25" width="1440" height="799" />
+    </state>
+    <state x="453" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.799@0.25.1440.799" timestamp="1653661423158" />
+    <state x="0" y="25" width="1440" height="797" key="#xdebugger.evaluate" timestamp="1653662011889">
+      <screen x="0" y="25" width="1440" height="799" />
+    </state>
+    <state x="0" y="25" width="1440" height="797" key="#xdebugger.evaluate/0.25.1440.799@0.25.1440.799" timestamp="1653662011889" />
+    <state width="1419" height="183" key="GridCell.Tab.0.bottom" timestamp="1654526451242">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="183" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1654526451242" />
+    <state width="1419" height="331" key="GridCell.Tab.0.bottom/0.25.1440.797@0.25.1440.797" timestamp="1654183444320" />
+    <state width="1419" height="327" key="GridCell.Tab.0.bottom/0.25.1440.799@0.25.1440.799" timestamp="1654183283445" />
+    <state width="1419" height="327" key="GridCell.Tab.0.bottom/0.25.1440.801@0.25.1440.801" timestamp="1654009363896" />
+    <state width="1419" height="183" key="GridCell.Tab.0.center" timestamp="1654526451240">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="183" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1654526451240" />
+    <state width="1419" height="331" key="GridCell.Tab.0.center/0.25.1440.797@0.25.1440.797" timestamp="1654183444317" />
+    <state width="1419" height="327" key="GridCell.Tab.0.center/0.25.1440.799@0.25.1440.799" timestamp="1654183283444" />
+    <state width="1419" height="327" key="GridCell.Tab.0.center/0.25.1440.801@0.25.1440.801" timestamp="1654009363894" />
+    <state width="1419" height="183" key="GridCell.Tab.0.left" timestamp="1654526451238">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="183" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1654526451238" />
+    <state width="1419" height="331" key="GridCell.Tab.0.left/0.25.1440.797@0.25.1440.797" timestamp="1654183444317" />
+    <state width="1419" height="327" key="GridCell.Tab.0.left/0.25.1440.799@0.25.1440.799" timestamp="1654183283444" />
+    <state width="1419" height="327" key="GridCell.Tab.0.left/0.25.1440.801@0.25.1440.801" timestamp="1654009363893" />
+    <state width="1419" height="183" key="GridCell.Tab.0.right" timestamp="1654526451241">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="183" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1654526451241" />
+    <state width="1419" height="331" key="GridCell.Tab.0.right/0.25.1440.797@0.25.1440.797" timestamp="1654183444319" />
+    <state width="1419" height="327" key="GridCell.Tab.0.right/0.25.1440.799@0.25.1440.799" timestamp="1654183283445" />
+    <state width="1419" height="327" key="GridCell.Tab.0.right/0.25.1440.801@0.25.1440.801" timestamp="1654009363895" />
+    <state width="1419" height="320" key="GridCell.Tab.1.bottom" timestamp="1654526309262">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="320" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1654526309262" />
+    <state width="1419" height="331" key="GridCell.Tab.1.bottom/0.25.1440.797@0.25.1440.797" timestamp="1654183444321" />
+    <state width="1419" height="331" key="GridCell.Tab.1.bottom/0.25.1440.799@0.25.1440.799" timestamp="1654182600340" />
+    <state width="1419" height="320" key="GridCell.Tab.1.center" timestamp="1654526309260">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="320" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1654526309260" />
+    <state width="1419" height="331" key="GridCell.Tab.1.center/0.25.1440.797@0.25.1440.797" timestamp="1654183444320" />
+    <state width="1419" height="331" key="GridCell.Tab.1.center/0.25.1440.799@0.25.1440.799" timestamp="1654182600339" />
+    <state width="1419" height="320" key="GridCell.Tab.1.left" timestamp="1654526309259">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="320" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1654526309259" />
+    <state width="1419" height="331" key="GridCell.Tab.1.left/0.25.1440.797@0.25.1440.797" timestamp="1654183444320" />
+    <state width="1419" height="331" key="GridCell.Tab.1.left/0.25.1440.799@0.25.1440.799" timestamp="1654182600338" />
+    <state width="1419" height="320" key="GridCell.Tab.1.right" timestamp="1654526309261">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="320" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1654526309261" />
+    <state width="1419" height="331" key="GridCell.Tab.1.right/0.25.1440.797@0.25.1440.797" timestamp="1654183444321" />
+    <state width="1419" height="331" key="GridCell.Tab.1.right/0.25.1440.799@0.25.1440.799" timestamp="1654182600339" />
+    <state x="385" y="150" width="670" height="675" key="search.everywhere.popup" timestamp="1654181102337">
+      <screen x="0" y="25" width="1440" height="799" />
+    </state>
+    <state x="385" y="150" width="670" height="675" key="search.everywhere.popup/0.25.1440.799@0.25.1440.799" timestamp="1654181102337" />
+    <state x="385" y="150" width="670" height="676" key="search.everywhere.popup/0.25.1440.801@0.25.1440.801" timestamp="1654008579842" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Class_4/try_ex.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Class_5/first.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Class_5/first.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Class_5/first.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Class_5/test.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Class_5/test.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Class_5/test.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Class_5/test.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
