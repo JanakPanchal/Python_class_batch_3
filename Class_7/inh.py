@@ -12,6 +12,7 @@
 # class SubDerivedClass(DerivedClass):
 #   #body of SubDerivedClass
 #this is the command
+#this is new command
 
 class Customer():
 	CID = [101,102,103]
