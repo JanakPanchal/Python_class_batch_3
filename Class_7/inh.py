@@ -11,7 +11,7 @@
 # 	#body of DerivedClass
 # class SubDerivedClass(DerivedClass):
 #   #body of SubDerivedClass
-
+#this is the command
 
 class Customer():
 	CID = [101,102,103]
